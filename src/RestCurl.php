@@ -1,9 +1,9 @@
 <?php
 
-namespace Hadder\NfseNacional;
+namespace PauloAK\NfseNacional;
 
 use Exception;
-use Hadder\NfseNacional\Common\RestBase;
+use PauloAK\NfseNacional\Common\RestBase;
 use NFePHP\Common\Certificate;
 use NFePHP\Common\Exception\SoapException;
 use NFePHP\Common\Signer;
