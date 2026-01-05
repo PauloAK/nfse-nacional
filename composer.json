@@ -1,5 +1,5 @@
 {
-  "name": "quantumtecnology/nfse-nacional",
+  "name": "pauloak/nfse-nacional",
   "license": "MIT",
   "description": "Pacote para geração de NFSe Nacional usando componentes NFePHP (https://github.com/nfephp-org)",
   "keywords": [
@@ -27,7 +27,7 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "php": "^8.2",
+    "php": "^8.0",
     "symfony/var-dumper": "^7.1 | ^6.0",
     "tecnickcom/tcpdf": "^6.7",
     "nfephp-org/sped-common": "^5.1",
